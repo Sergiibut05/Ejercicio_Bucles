@@ -11,8 +11,8 @@ public class App {
         /*Ejercicio13.ejercicio13();*/
         /*Ejercicio14.ejercicio14();*/
         /*Ejercicio22.ejercicio22();*/
-        /*Ejercicio24.ejercicio24();*/
+        Ejercicio24.ejercicio24();
         /*Ejercicio25.ejercicio25();*/
-        Ejercicio26.ejercicio26();
+        /*Ejercicio26.ejercicio26();*/
     }
 }
