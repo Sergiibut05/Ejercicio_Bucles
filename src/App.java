@@ -9,6 +9,11 @@ import Ejercicio27.Ejercicio27;
 import Ejercicio28.Ejercicio28;
 import Ejercicio29.Ejercicio29;
 import Ejercicio30.Ejercicio30;
+import Ejercicio34.Ejercicio34;
+import Ejercicio38.Ejercicio38;
+import Ejercicio67.Ejercicio67;
+import Ejercicio69.Ejercicio69;
+import Ejercicio66.Ejercicio66;
 public class App {
     public static void main(String[] args) throws Exception {
         /*Ejercicio12.ejercicio12();*/
@@ -21,6 +26,11 @@ public class App {
         //Ejercicio27.ejercicio27();
         //Ejercicio28.ejercicio28();
         //Ejercicio29.ejercicio29();
-        Ejercicio30.ejercicio30();
+        //Ejercicio30.ejercicio30();
+        //Ejercicio34.ejercicio34();*/
+        //Ejercicio38.ejercicio38();
+        //Ejercicio67.ejercicio67();
+        //Ejercicio69.ejercicio69();
+        Ejercicio66.ejercicio66();
     }
 }
